@@ -1,1 +1,1 @@
-id
+echo 'lol' > /tmp/echo
