@@ -1,1 +1,1 @@
-echo 'lol' > /tmp/echo
+echo hello world
